@@ -75,6 +75,7 @@ python serve_dashboard.py
 
 If `GROQ_API_KEY` is not set in `.env`, the dashboard will still load, but chatbot requests will return an API key error.
 
+
 ## How to Use
 
 Use the Dataset dropdown to switch between:
