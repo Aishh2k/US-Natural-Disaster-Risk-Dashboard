@@ -4,6 +4,8 @@ This project visualizes and analyzes natural disaster trends across the United S
 
 The dashboard features a colored heat map of all US states, allowing users to switch between historical data, future predictions, and socio-economic risk indicators. Users can filter disasters by event type, explore state-wise and year-wise statistics, and use interactive charts to better understand the impact of each disaster. An integrated AI Assistant provides context-aware answers about the projected data, risk patterns, and mitigation guidance.
 
+<img width="1470" height="801" alt="image" src="https://github.com/user-attachments/assets/64de9ad2-2439-4a2b-8263-a7b60d96d95e" />
+
 ## Features
 
 - Interactive US state map with hover and click behavior
